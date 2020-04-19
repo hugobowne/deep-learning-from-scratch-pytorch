@@ -17,11 +17,11 @@ Participants will be expected to be comfortable using Python with some prior exp
 * your way around the terminal/shell.
 
 
-**However, I have always found that the most important and beneficial prerequisite is a will to learn new things so if you have this quality, you'll definitely get something out of this code-along session.**
+**However, we have always found that the most important and beneficial prerequisite is a will to learn new things so if you have this quality, you'll definitely get something out of this tutorial.**
 
 Also, if you'd like to watch and **not** code along, you'll also have a great time and these notebooks will be downloadable afterwards also.
 
-If you are going to code along and use the [Anaconda distribution](https://www.anaconda.com/download/) of Python 3 (see below), I ask that you install it before the session.
+If you are going to code along and use the [Anaconda distribution](https://www.anaconda.com/download/) of Python 3 (see below), we ask that you install it before the session.
 
 
 ## Getting set up computationally
@@ -54,7 +54,7 @@ Navigate to the relevant directory `deep-learning-from-scratch-pytorch` and inst
 conda env create -f environment.yml
 ```
 
-This will create a new environment called covid_19_eda. To activate the environment on OSX/Linux, execute
+This will create a new environment called deep-learning-from-scratch-pytorch. To activate the environment on OSX/Linux, execute
 
 ```
 source activate deep-learning-from-scratch-pytorch
