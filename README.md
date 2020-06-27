@@ -3,6 +3,9 @@
 # deep-learning-from-scratch-pytorch
 Deep Learning from Scratch with PyTorch
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hugobowne/deep-learning-from-scratch-pytorch/master)
+[![Open In Colab](https://colab.research.google.com/github/hugobowne/deep-learning-from-scratch-pytorch/blob/master/notebooks/1-Instructor-deep-learning-from-scratch-pytorch.ipynb)
+
 # description
 
 This tutorial introduces deep learning (also called neural networks) to intermediate-level Pythonistas. The goal is for participants to develop a sound conceptual foundation for deep learning and to obtain some hands-on experience using an industry-ready toolkit. They will do this in two parts: (1) implementing a neural network classifier from scratch (following a quick review of NumPy array-based computing & supervised learning with Scikit-Learn); and (2) a tour of the PyTorch library building more sophisticated, industry-grade neural networks of varying depth & complexity.
@@ -28,7 +31,8 @@ If you are going to code along and use the [Anaconda distribution](https://www.a
 
 ## Getting set up computationally
 
-[TO DO: include binder/colab badges here]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hugobowne/deep-learning-from-scratch-pytorch/master)
+[![Open In Colab](https://colab.research.google.com/github/hugobowne/deep-learning-from-scratch-pytorch/blob/master/notebooks/1-Instructor-deep-learning-from-scratch-pytorch.ipynb)
 
 The first option is to click on either the [Binder](https://mybinder.readthedocs.io/en/latest/) or [Colab](https://research.google.com/colaboratory/faq.html) badge above. These will spin up the necessary computational environment for you so you can write and execute Python code from the comfort of your browser. They are free services. Due to this, the resources  are not guaranteed, though they usually work well. If you want as close to a guarantee as possible, follow the instructions below to set up your computational environment locally (that is, on your own computer).
 
