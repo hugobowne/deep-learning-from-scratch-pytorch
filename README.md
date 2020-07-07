@@ -1,5 +1,7 @@
 **IF YOU ARE ATTENDING OUR SCIPY 2020 TUTORIAL, PLEASE NOTE THAT THIS REPOSITORY WILL CONTAIN ALL NECESSARY MATERIALS BY 9AM CDT JULY 7TH, 2020 (24 HOURS BEFORE THE TUTORIAL), SO DO MAKE SURE TO CLONE OR PULL THIS REPOSITORY THEN. IN THE MEANTIME, WE'RE EXCITED TO BE MAKING PULL REQUESTS OURSELVES!**
 
+**After the tutorial, please leave feedback for us [here](https://hugobowne.typeform.com/to/NYClbcaE)! We'll use this information to help improve the content and delivery of the material.**
+
 # deep-learning-from-scratch-pytorch
 Deep Learning from Scratch with PyTorch
 
