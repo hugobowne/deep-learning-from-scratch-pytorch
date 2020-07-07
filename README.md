@@ -3,8 +3,8 @@
 # deep-learning-from-scratch-pytorch
 Deep Learning from Scratch with PyTorch
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hugobowne/deep-learning-from-scratch-pytorch/master?urlpath=lab)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hugobowne/deep-learning-from-scratch-pytorch/blob/master/notebooks/1-Instructor-deep-learning-from-scratch-pytorch.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hugobowne/deep-learning-from-scratch-pytorch/fabc41742f2b973e40f3adf39079bfab4f744451?urlpath=lab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hugobowne/deep-learning-from-scratch-pytorch/blob/master/notebooks/1-Student-deep-learning-from-scratch-pytorch.ipynb)
 
 # description
 
