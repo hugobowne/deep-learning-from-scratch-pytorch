@@ -70,7 +70,7 @@ source activate deep-learning-from-scratch-pytorch
 On Windows, execute
 
 ```
-activate cdeep-learning-from-scratch-pytorch
+activate deep-learning-from-scratch-pytorch
 ```
 
 
