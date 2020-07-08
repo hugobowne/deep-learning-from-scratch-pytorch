@@ -1,11 +1,9 @@
-**IF YOU ARE ATTENDING OUR SCIPY 2020 TUTORIAL, PLEASE NOTE THAT THIS REPOSITORY WILL CONTAIN ALL NECESSARY MATERIALS BY 9AM CDT JULY 7TH, 2020 (24 HOURS BEFORE THE TUTORIAL), SO DO MAKE SURE TO CLONE OR PULL THIS REPOSITORY THEN. IN THE MEANTIME, WE'RE EXCITED TO BE MAKING PULL REQUESTS OURSELVES!**
-
 **After the tutorial, please leave feedback for us [here](https://hugobowne.typeform.com/to/NYClbcaE)! We'll use this information to help improve the content and delivery of the material.**
 
 # deep-learning-from-scratch-pytorch
 Deep Learning from Scratch with PyTorch
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hugobowne/deep-learning-from-scratch-pytorch/fabc41742f2b973e40f3adf39079bfab4f744451?urlpath=lab)
+[![Binder](https://mybinder.org/v2/gh/hugobowne/deep-learning-from-scratch-pytorch/f61063c3ec3aca124fd90b6af604e8e4c7313604?urlpath=lab)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hugobowne/deep-learning-from-scratch-pytorch/blob/master/notebooks/1-Student-deep-learning-from-scratch-pytorch.ipynb)
 
 # description
